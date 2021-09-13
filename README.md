@@ -18,3 +18,7 @@ The following was pre-determined before the start of the AMA and can be confirme
 ## POAPs
 
 - 1000 POAPs were pre-minted prior to the beginning of the AMA, and claiming method is currently being devised.
+
+# Final Results
+
+- Final CSV file will be attached once NFT winners are picked and a complete sweep of the thread is conducted for POAPs.
