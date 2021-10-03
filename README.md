@@ -21,4 +21,5 @@ The following was pre-determined before the start of the AMA and can be confirme
 
 # Final Results
 
-- Final CSV file will be attached once NFT winners are picked and a complete sweep of the thread is conducted for POAPs.
+- Distribution and TXID has been uploaded `distributionR1.csv`
+- In two weeks another attempt will be made to contact the receptients that have not yet claimed their rewards. 
